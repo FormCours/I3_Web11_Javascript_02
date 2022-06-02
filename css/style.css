@@ -1,0 +1,9 @@
+h1 {
+    color: springgreen;
+    text-shadow: 5px 2px 3px plum;
+}
+
+.image-test {
+    max-width: 100%;
+    object-fit: contain;
+}
